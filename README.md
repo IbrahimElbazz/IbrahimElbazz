@@ -5,15 +5,7 @@
   <img src="assets/hero.svg" alt="Ibrahim Ahmed Elbaz — Mobile Software Engineer, Flutter Developer" width="100%">
 </picture>
 
-<<<<<<< Updated upstream
-<a href="https://ibrahim-ahmed-elbaz.vercel.app/"  target="_blank"><img src="assets/link-portfolio.svg" alt="Portfolio" height="40"></a>
-=======
-<<<<<<< HEAD
 <a href="https://ibrahim-ahmed-elbaz.vercel.app/" ><img src="assets/link-portfolio.svg" alt="Portfolio" height="40"></a>
-=======
-<a href="https://ibrahim-ahmed-elbaz.vercel.app/"  target="_blank"><img src="assets/link-portfolio.svg" alt="Portfolio" height="40"></a>
->>>>>>> a86e1c2fe20ab564260b8b0a7d16894039e672e8
->>>>>>> Stashed changes
 <a href="https://linkedin.com/in/ibrahim-ahmed-403673377"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="40"></a>
 <a href="https://github.com/IbrahimElbazz"><img src="assets/link-github.svg" alt="GitHub" height="40"></a>
 <a href="mailto:ibrahim.elbaz.1011@gmail.com"><img src="assets/link-email.svg" alt="Email" height="40"></a>
