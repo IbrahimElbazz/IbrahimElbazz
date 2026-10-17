@@ -12,7 +12,8 @@
 
 </div>
 
-<img src="assets/sec-about.svg" alt="About" width="100%">
+<a name="about"></a>
+<a href="#about"><img src="assets/sec-about.svg" alt="About" width="100%"></a>
 
 I'm a mobile software engineer from Mansoura, Egypt. I build cross-platform apps with Flutter, BLoC/Cubit and Clean Architecture, and I take features from requirements through to store release. I've published apps to both Google Play and the Apple App Store.
 
@@ -20,7 +21,8 @@ I'm a mobile software engineer from Mansoura, Egypt. I build cross-platform apps
 - I integrated 5+ RESTful APIs (real-time chat, Google Maps, push notifications) using Dio, with response caching.
 - I've handled the full release lifecycle: build configuration, app signing, store submission and deployment.
 
-<img src="assets/sec-education.svg" alt="Education and certifications" width="100%">
+<a name="education"></a>
+<a href="#education"><img src="assets/sec-education.svg" alt="Education and certifications" width="100%"></a>
 
 **B.Eng., Computer Systems Engineering** — Misr Higher Institute of Engineering and Technology, Mansoura, Egypt (Aug 2021 – Jul 2025)
 Graduation project: **BrainPulse**, an AI-powered brain disorder diagnostic app, awarded graduation project distinction.
@@ -30,14 +32,16 @@ Graduation project: **BrainPulse**, an AI-powered brain disorder diagnostic app,
 - Web Development Fundamentals (HTML, CSS, JavaScript, Bootstrap, React) — New Horizons
 - Backend Development (PHP, Laravel, MySQL) — New Horizons
 
-<img src="assets/sec-experience.svg" alt="Experience" width="100%">
+<a name="experience"></a>
+<a href="#experience"><img src="assets/sec-experience.svg" alt="Experience" width="100%"></a>
 
 | Role | Company | Period |
 | --- | --- | --- |
 | Mobile Software Engineer | Moon Space Egypt | Jul 2024 – Aug 2026 |
 | Mobile Software Engineer | Anmka Egypt | Oct 2025 – Dec 2025 |
 
-<img src="assets/sec-projects.svg" alt="Selected projects" width="100%">
+<a name="projects"></a>
+<a href="#projects"><img src="assets/sec-projects.svg" alt="Selected projects" width="100%"></a>
 
 | Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
@@ -50,7 +54,8 @@ Graduation project: **BrainPulse**, an AI-powered brain disorder diagnostic app,
 | **Techy** | Educational platform with mentor-student chat, video meetings and social feeds | Flutter, Firebase, BLoC | Google Play |
 | **BrainPulse** | Doctor-facing app that gets diagnostic suggestions from a machine learning model via REST API | Flutter, REST API, ML | [GitHub](https://github.com/IbrahimElbazz/Brainpulse) |
 
-<img src="assets/sec-skills.svg" alt="Skills" width="100%">
+<a name="skills"></a>
+<a href="#skills"><img src="assets/sec-skills.svg" alt="Skills" width="100%"></a>
 
 | Category | Technologies |
 | --- | --- |
@@ -63,7 +68,8 @@ Graduation project: **BrainPulse**, an AI-powered brain disorder diagnostic app,
 
 **Languages:** Arabic (native), English (advanced)
 
-<img src="assets/sec-activity.svg" alt="GitHub activity" width="100%">
+<a name="activity"></a>
+<a href="#activity"><img src="assets/sec-activity.svg" alt="GitHub activity" width="100%"></a>
 
 <div align="center">
 
@@ -71,7 +77,8 @@ Graduation project: **BrainPulse**, an AI-powered brain disorder diagnostic app,
 
 </div>
 
-<img src="assets/sec-connect.svg" alt="Connect" width="100%">
+<a name="connect"></a>
+<a href="#connect"><img src="assets/sec-connect.svg" alt="Connect" width="100%"></a>
 
 - LinkedIn: [ibrahim-ahmed-403673377](https://linkedin.com/in/ibrahim-ahmed-403673377)
 - GitHub: [IbrahimElbazz](https://github.com/IbrahimElbazz)
