@@ -5,15 +5,16 @@
   <img src="assets/hero.svg" alt="Ibrahim Ahmed Elbaz — Mobile Software Engineer, Flutter Developer" width="100%">
 </picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3)](https://linkedin.com/in/ibrahim-ahmed-403673377)
-[![GitHub](https://img.shields.io/badge/GitHub-451126?style=for-the-badge&logo=github&logoColor=F8F0F3)](https://github.com/IbrahimElbazz)
-[![Email](https://img.shields.io/badge/Email-C77B9B?style=for-the-badge&logo=gmail&logoColor=10070C)](mailto:ibrahim.elbaz.1011@gmail.com)
+<a href="https://ibrahim-ahmed-elbaz.vercel.app/"><img src="assets/link-portfolio.svg" alt="Portfolio" height="40"></a>
+<a href="https://linkedin.com/in/ibrahim-ahmed-403673377"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="40"></a>
+<a href="https://github.com/IbrahimElbazz"><img src="assets/link-github.svg" alt="GitHub" height="40"></a>
+<a href="mailto:ibrahim.elbaz.1011@gmail.com"><img src="assets/link-email.svg" alt="Email" height="40"></a>
 
 </div>
 
 ## About
 
-I'm a mobile software engineer who builds Flutter apps with BLoC/Cubit and Clean Architecture, from the first requirements through to store release. I currently work at **Moon Space Egypt**, and I've published apps to both Google Play and the Apple App Store.
+I'm a mobile software engineer from Mansoura, Egypt. I build cross-platform apps with Flutter, BLoC/Cubit and Clean Architecture, and I take features from requirements through to store release. I've published apps to both Google Play and the Apple App Store.
 
 - I resolved 20+ backlog issues across production Flutter apps, which reduced crash frequency.
 - I integrated 5+ RESTful APIs (real-time chat, Google Maps, push notifications) using Dio, with response caching.
@@ -33,20 +34,21 @@ Graduation project: **BrainPulse**, an AI-powered brain disorder diagnostic app,
 
 | Role | Company | Period |
 | --- | --- | --- |
-| Mobile Software Engineer | Moon Space Egypt | Jul 2024 – Present |
+| Mobile Software Engineer | Moon Space Egypt | Jul 2024 – Aug 2026 |
 | Mobile Software Engineer | Anmka Egypt | Oct 2025 – Dec 2025 |
 
 ## Selected projects
 
-| Project | What it is | Stack | Store |
+| Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
-| **Al-Hafez** | Academy management platform with separate student and teacher interfaces, session calendar, analytics, subscriptions, PDF receipts, Arabic and English | Flutter, Firebase, BLoC | Google Play, App Store |
-| **Moaawn** | Home services marketplace with real-time order tracking and Paymob payments | Flutter, BLoC, Firebase, Paymob | App Store |
+| **Al-Hafez** | Academy management platform with separate student and teacher interfaces, session calendar, analytics, subscriptions, PDF receipts, Arabic and English | Flutter, Firebase, BLoC | [Google Play](https://play.google.com/store/apps/details?id=com.technolanes.alhafiz) · [App Store](https://apps.apple.com/us/app/%D8%A7%D9%84%D8%AD%D8%A7%D9%81%D8%B8/id6757515415) · [Website](https://al-hafez.vercel.app/) |
+| **Moaawn** | Home services marketplace with real-time order tracking and Paymob payments | Flutter, BLoC, Firebase, Paymob | [Google Play](https://play.google.com/store/apps/details?id=com.moafaa.moaawn) · [App Store](https://apps.apple.com/eg/app/%D9%85%D8%B9%D8%A7%D9%88%D9%86-moaawn/id6741809054) |
+| **STP Academy** | Educational app built from scratch | Flutter, BLoC, Clean Architecture | [Google Play](https://play.google.com/store/apps/details?id=com.anmka.stpnew) · [App Store](https://apps.apple.com/eg/app/stp-academy/id6760566377) |
+| **Albootcamp** | Contributed to an Arabic booking platform for collective learning | Flutter, Cubit, Supabase | [App Store](https://apps.apple.com/eg/app/albootcamp-%D8%A7%D9%84%D8%A8%D9%88%D8%AA-%D9%83%D8%A7%D9%85%D8%A8/id6758223539) |
+| **Future** | App built from scratch, with the full release pipeline managed | Flutter, BLoC, Clean Architecture | [Google Play](https://play.google.com/store/apps/details?id=com.anmka.future) |
+| **Efham** | Maintained and enhanced an existing app: bug fixes, new features, stability | Flutter, Dart | [Google Play](https://play.google.com/store/apps/details?id=com.anmka.efhamm) |
 | **Techy** | Educational platform with mentor-student chat, video meetings and social feeds | Flutter, Firebase, BLoC | Google Play |
-| **STP Academy** | Educational app built from scratch | Flutter, BLoC, Clean Architecture | Google Play, App Store |
-| **Future** | App built from scratch, with the full release pipeline managed | Flutter, BLoC, Clean Architecture | Google Play |
-| **Albootcamp** | Contributed to an Arabic booking platform for collective learning | Flutter, Cubit, Supabase | — |
-| **BrainPulse** | Doctor-facing app that gets diagnostic suggestions from a machine learning model via REST API | Flutter, REST API, ML | — |
+| **BrainPulse** | Doctor-facing app that gets diagnostic suggestions from a machine learning model via REST API | Flutter, REST API, ML | [GitHub](https://github.com/IbrahimElbazz/Brainpulse) |
 
 ## Skills
 
@@ -65,18 +67,15 @@ Graduation project: **BrainPulse**, an AI-powered brain disorder diagnostic app,
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/701A3D/IbrahimElbazz" alt="GitHub contribution heatmap for IbrahimElbazz" width="100%">
+<a href="https://github.com/IbrahimElbazz"><img src="assets/heatmap.svg" alt="GitHub contribution heatmap for IbrahimElbazz" width="100%"></a>
 
 </div>
-
-<!-- Optional stats card (third-party service, can be rate-limited). Uncomment only if it renders reliably for you:
-<img src="https://github-readme-stats.vercel.app/api?username=IbrahimElbazz&show_icons=true&bg_color=190B12&title_color=C77B9B&text_color=F8F0F3&icon_color=E5B5C7&border_color=451126" alt="GitHub stats">
--->
 
 ## Connect
 
 - LinkedIn: [ibrahim-ahmed-403673377](https://linkedin.com/in/ibrahim-ahmed-403673377)
 - GitHub: [IbrahimElbazz](https://github.com/IbrahimElbazz)
+- Portfolio: [ibrahim-ahmed-elbaz.vercel.app](https://ibrahim-ahmed-elbaz.vercel.app/)
 - Email: [ibrahim.elbaz.1011@gmail.com](mailto:ibrahim.elbaz.1011@gmail.com)
 
 <picture>
